@@ -1,5 +1,6 @@
 # Bootstrap-portfolio David Perez
-Bootstrap-Portfolio
+
+Homework 2 GT bootcamps
 
 Installation for bootstrap social icons 
 --------------------------------------
