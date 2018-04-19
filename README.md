@@ -1,4 +1,5 @@
 # Bootstrap-portfolio David Perez
+https://sharstream.github.io/bootstrap-portfolio/
 
 Homework 2 GT bootcamps
 
